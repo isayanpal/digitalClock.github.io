@@ -1,6 +1,13 @@
 ## Visit Site👇
 https://isayanpal.github.io/digitalClock.github.io/
 
+## Techstack Used-
+- HTML5
+- CSS
+- JAVASCRIPT
+
+## Code-editor:
+- VsCode
 
 <h1 align="center">Screenshot👇</h1>
 
